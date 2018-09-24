@@ -1,0 +1,32 @@
+.navbar-header{
+    background-color: black;
+}
+
+li>a.active:focus {
+    color: #f7b600;
+}
+.navline {
+    height: 5px;
+    background-color: #f7b600;
+    /* width: 700px; */
+}
+/* .navline .nav-indicator-bar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: 1s;
+    transition: 1s;
+    background: url(/src/assets/images/global-nav-indicator.png) 2500px 0;
+}
+.navline .nav-indicator {
+    position: absolute;
+    top: -15px;
+    width: 30px;
+    height: 10px;
+    margin-left: -15px;
+    display: none;
+    z-index: 10;
+    -webkit-transition: 1s;
+    transition: 1s;
+} */
